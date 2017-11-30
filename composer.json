@@ -1,0 +1,21 @@
+{
+  "name": "brisum/wordpress-module-post-hierarchy",
+  "description": "Wordpress Module Post Hierarchy",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-post-hierarchy",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\PostHierarchy\\": "src/"
+    }
+  }
+}
